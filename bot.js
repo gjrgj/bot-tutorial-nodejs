@@ -20,7 +20,7 @@ function respond() {
 function postMessage() {
   var botResponse, options, body, botReq;
 
-  botResponse = "Sundays \nCups(9 pm):\nAgastya\nWes\nBrian Chung\nPChow\nHeder\nTad\nArun\nKetav\nShaket\nEvan\nJmar\n\nMops (9:30 pm):\nJuan\nDerrick\nJimmy\nPaul H.\nWeiling\nSam\nNathan\nDamian\nDaniel\nJake\nGeorge\nBrian Chekal\nSteven\nWyatt";
+  botResponse = "Sundays \nArea around Hot Tub (9 pm):\nDaniel\nKetav\nSam\nCups(9 pm):\nAgastya\nWes\nBrian Chung\nPChow\nHeder\nTad\nArun\nShaket\nEvan\nJmar\n\nMops (9:30 pm):\nJuan\nDerrick\nJimmy\nPaul H.\nWeiling\nNathan\nDamian\nJake\nGeorge\nBrian Chekal\nSteven\nWyatt";
 
   options = {
     hostname: 'api.groupme.com',
