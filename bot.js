@@ -20,7 +20,7 @@ function respond() {
 function postMessage() {
   var botResponse, options, body, botReq;
 
-  botResponse = "Sundays \nArea around Hot Tub / Front Lawn (9 pm):\nDaniel\nKetav\nSam\n\nCups(9 pm):\nAgastya\nWes\nBrian Chung\nPChow\nDeven\nHeder\nTad\nArun\nShaket\nEvan\nJmar\n\nMops (9:30 pm):\nJuan\nDerrick\nJimmy\nPaul H.\nWeiling\nNathan\nDamian\nJake\nGeorge\nBrian Chekal\nSteven\nWyatt\n\nMake sure the lawn and area around the back door is free of all trash or we could get fined. @cups people, Don't forget to clean behind the bar and in the keg cave too. @mops people, use a FUCKTON of bleach. Those gnats need to die.";
+  botResponse = "Sundays \nArea around Hot Tub / Front Lawn (9 pm):\nDaniel\nKetav\nSam\n\nCups(9 pm):\nAgastya\nWes\nBrian Chung\nPChow\nDeven\nHeder\nTad\nArun\nShaket\nEvan\nJmar\nChogan\n\nMops (9:30 pm):\nJuan\nDerrick\nJimmy\nPaul H.\nWeiling\nNathan\nDamian\nJake\nGeorge\nBrian Chekal\nSteven\nWyatt\n\nMake sure the lawn and area around the back door is free of all trash or we could get fined. @cups people, Don't forget to clean behind the bar and in the keg cave too. @mops people, use a FUCKTON of bleach. Those gnats need to die.";
 
   options = {
     hostname: 'api.groupme.com',
